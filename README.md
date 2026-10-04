@@ -9,7 +9,7 @@ I spent over a decade in South African insurance, from sales to Head of BI, and 
 ## 🎮 What's in the pipeline?
 
 ### Meteorfrogs: *main project*
-A premium grid puzzle game for mobile, in Unity. You open sluice gates and steer currents across a 13×11 tide pool, pushing rows of bioluminescent creatures until matching species touch and clear. It's a spiritual successor to *Rings of the Magi*.
+A premium grid puzzle game for PC, in Unity. You control vents across a 13×11 crater, pushing rows of mutated frogs until matching species touch and explode. It's a spiritual successor to *Rings of the Magi*.
 
 - Five species, told apart by **shape and animation, not colour alone**
 - A custom plain-text level format (LevelText) and a single-file HTML level editor
